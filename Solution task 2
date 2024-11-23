@@ -24,4 +24,4 @@ print("Least borrowed book was: "+min_rented+" it was rented for:",min_days,"day
 print("The average days the books were rented:",average)
 print("All of the unique titles: ",unique)
 print("The list in descending order based on days rented: ",desc)
-Explantion video is in the readme file the first link!
+#Explantion video is in the readme file the first link!
